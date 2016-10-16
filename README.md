@@ -13,4 +13,4 @@ Ez a repo egy könyvelőiroda és ügyfelei közötti kommunikációt egyszerűs
 
 Az adatokat adatbázisban tároljuk. 3 adattábla kiszolgálja az oldalt. Az egyiken a felhasználók adatai lesznek, a másikon a különböző feladatok, amik elévülésük után 2 héttel törlődnek, így nem halmozódik fel fölösleges adat. A harmadik adattáblában a berögzített mindenkire vonatkozó határidőket lehet rögzíteni az adminisztrátornak.
 
-# A feladathoz mellékelt képeket az bead_img könyvtárban mellékeltem.
+# A feladathoz mellékelt képeket az public könyvtárban mellékeltem.
